@@ -2,8 +2,8 @@
 
 ### Presentación:
 
-Soy Aiad Rahimi Vilchez, estudiante de Ingeniería Industrial en la Universidad Tecnológica Nacional en la facultad regional de Buenos Aires.
-Gracias a la materia optativa "Ciencia de Datos" pude adquirir los conocimientos necesarios para defenderme en esta área en auge.
+Soy Aiad Rahimi Vilchez, estudiante de Ingeniería Industrial en la Universidad Tecnológica Nacional facultad regional de Buenos Aires.
+Gracias a la materia "Ciencia de Datos" pude adquirir conocimientos necesarios para poder defenderme.
 
 ### Objetivo del repositorio:
 
